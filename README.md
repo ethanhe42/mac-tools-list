@@ -5,3 +5,7 @@ a curated list of mac tools
 ### tab windows control
 [shift it]()  
 [Hyper Switch]()  
+### remote server
+MacFusion  
+sshfs  
+FileZilla
